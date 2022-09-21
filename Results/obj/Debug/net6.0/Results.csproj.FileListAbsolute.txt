@@ -1,0 +1,15 @@
+C:\Users\usova\OneDrive\Рабочий стол\IT\Итоговое задание\BlockResults\Results\bin\Debug\net6.0\Results.exe
+C:\Users\usova\OneDrive\Рабочий стол\IT\Итоговое задание\BlockResults\Results\bin\Debug\net6.0\Results.deps.json
+C:\Users\usova\OneDrive\Рабочий стол\IT\Итоговое задание\BlockResults\Results\bin\Debug\net6.0\Results.runtimeconfig.json
+C:\Users\usova\OneDrive\Рабочий стол\IT\Итоговое задание\BlockResults\Results\bin\Debug\net6.0\Results.dll
+C:\Users\usova\OneDrive\Рабочий стол\IT\Итоговое задание\BlockResults\Results\bin\Debug\net6.0\Results.pdb
+C:\Users\usova\OneDrive\Рабочий стол\IT\Итоговое задание\BlockResults\Results\obj\Debug\net6.0\Results.csproj.AssemblyReference.cache
+C:\Users\usova\OneDrive\Рабочий стол\IT\Итоговое задание\BlockResults\Results\obj\Debug\net6.0\Results.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usova\OneDrive\Рабочий стол\IT\Итоговое задание\BlockResults\Results\obj\Debug\net6.0\Results.AssemblyInfoInputs.cache
+C:\Users\usova\OneDrive\Рабочий стол\IT\Итоговое задание\BlockResults\Results\obj\Debug\net6.0\Results.AssemblyInfo.cs
+C:\Users\usova\OneDrive\Рабочий стол\IT\Итоговое задание\BlockResults\Results\obj\Debug\net6.0\Results.csproj.CoreCompileInputs.cache
+C:\Users\usova\OneDrive\Рабочий стол\IT\Итоговое задание\BlockResults\Results\obj\Debug\net6.0\Results.dll
+C:\Users\usova\OneDrive\Рабочий стол\IT\Итоговое задание\BlockResults\Results\obj\Debug\net6.0\refint\Results.dll
+C:\Users\usova\OneDrive\Рабочий стол\IT\Итоговое задание\BlockResults\Results\obj\Debug\net6.0\Results.pdb
+C:\Users\usova\OneDrive\Рабочий стол\IT\Итоговое задание\BlockResults\Results\obj\Debug\net6.0\Results.genruntimeconfig.cache
+C:\Users\usova\OneDrive\Рабочий стол\IT\Итоговое задание\BlockResults\Results\obj\Debug\net6.0\ref\Results.dll
